@@ -133,6 +133,9 @@ compile_gabc = function(self)
     for k, v in pairs(self) do
       texdoc = texdoc:gsub("<<<" .. tostring(k:upper()) .. ">>>", v)
     end
+    if self.width then
+      texdoc = texdoc:gsub("−−−−GABC−−−−", "\\parbox{" .. tostring(self.width) .. "}{−−−−GABC−−−−}")
+    end
     texdoc = texdoc:gsub("[^\n]*<<<[^>]*>>>[^\n]*\n?", ""):gsub("−−−−GABC−−−−", "\\gregorioscore{" .. tostring(gabc) .. "}"):gsub("\n", "")
     local command = "openout_any=a lualatex --interaction=batchmode --jobname " .. tostring(jobname) .. " <<EOF\n" .. tostring(texdoc) .. "\nEOF"
     print(command)
@@ -212,7 +215,7 @@ Code = function(self)
         do
           local f = open("gabc/" .. tostring(self.text) .. ".gabc")
           if f then
-            self.text = f:read("*a")
+            self.text = f:read("*a"):gsub(".*%%\n", "")
             f:close()
           end
         end

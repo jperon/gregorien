@@ -1,41 +1,42 @@
-# Notation grégorienne
+# Gregorian Notation
 
 . . .
 
-La portée
+The Score
 
-Principaux neumes
+Main Neumes
 
-Neumes développés
+Developped Neumes
 
-Modifications des neumes
+Neume Nodifications
 
-## La règle
+## The rule
 
-***le chant est une lecture intelligente,***
+***singing is an intelligent reading,***
 
-***bien accentuée, bien prosodiée, bien phrasée.***
+***well accented, well prosodized, well phrased.***
 
-## La portée
+## The Score
 
-```{.gabc initiallines=0 fontsize=15 size=20}
-(c4) Do(j/[-2]c) ( ) ré(k/[-2]d) ( ) mi(l/[-2]e) ( ) fa(m/[-2]f) ( ) sol(g) ( ) la(h/[-2]a) ( ) si(b/[-2]i) ( ) do(j/[-2]c) (z0::c3)
-Do(h/[-2]a) ( ) mi(j/[-2]c) ( ) sol(l/[-2]e) ( ) si(g) ( ) ré(b/[-2]i) ( ) fa(k/[-2]d) ( ) la(m/[-2]f) ( ) do(h/[-2]a) (::)
+
+```{.gabc initiallines=0 fontsize=15 size=20 tex="\grechangedim{spacebeneathtext}{1em}{scalable}"}
+(c4) C(j/[-2]c) ( ) D(k/[-2]d) ( ) E(l/[-2]e) ( ) F(m/[-2]f) ( ) G(g) ( ) A(h/[-2]a) ( ) B(b/[-2]i) ( ) C(j/[-2]c) (z0::c3)
+C(h/[-2]a) ( ) E(j/[-2]c) ( ) G(l/[-2]e) ( ) B(g) ( ) D(b/[-2]i) ( ) F(k/[-2]d) ( ) A(m/[-2]f) ( ) C(h/[-2]a) (::)
 ```
 
 . . .
 
-```{.gabc initiallines=0 fontsize=15 size=20}
-(c4) (gh) (g) (h) (::) (ge) (g) (e) (::) (gj) (g) (ir) (j) (::) (dh) (d) (fr) (h) (::) (fa) (f) (dr) (br) (a) (::) (dj) (d) (fr) (hr) (j) (::)
+```{.gabc initiallines=0 fontsize=15 size=20 tex="\grechangedim{spacebeneathtext}{1em}{scalable}"}
+(c4) (gh) (g) (h) (::) (ge) (g) (e) (::) (gj) (g) (ir) (j) (::) (dh) (d) (fr) (h) (::) (fa) (f) (dr) (br) (a) (::) (dj) (d) (fr) (hr) (j) (z0::c2z)
 ```
 
 . . .
 
-```{.gabc initiallines=0 fontsize=15 size=20}
+```{.gabc initiallines=0 fontsize=15 size=20 tex="\grechangedim{spacebeneathtext}{1em}{scalable}"}
 (c2) (e) (exer) (er) (eye) (,) (e) (exer) (;) (e) (z0::f4) Ca(g)ri(fxfr)tá(g)tem(fr) di(g)lí(f)gi(g)te.(g.) (z0::f3) (d) ( ) (f) ( ) (h) (z0::c4z)
 ```
 
-## Principaux neumes
+## Main Neumes
 
 . . .
 
@@ -58,11 +59,11 @@ Do(h/[-2]a) ( ) mi(j/[-2]c) ( ) sol(l/[-2]e) ( ) si(g) ( ) ré(b/[-2]i) ( ) fa(k
 | scandicus                       | climacus                          | torculus                         | porrectus                          |
 +---------------------------------+-----------------------------------+----------------------------------+------------------------------------+
 
-## Neumes spéciaux
+## Special neumes
 
 ------
 
-### Salicus et pressus
+### Salicus & pressus
 
 +:-------------------------------------------------------:+:-------------------------------------------------------:+:----------------------------------------------------:+
 | `1p24P2i`{.neume}   `1p2O24x4P`{.neume}   ``{.sgall} \ | `2p’24P`{.neume}   `2p’2O24x4P`{.neume}   ``{.sgall} \ | `4p’43C`{.neume}   `4p’4o3p`{.neume}   ``{.sgall} \ |
@@ -71,13 +72,13 @@ Do(h/[-2]a) ( ) mi(j/[-2]c) ( ) sol(l/[-2]e) ( ) si(g) ( ) ré(b/[-2]i) ( ) fa(k
 
 . . .
 
-Ces trois neumes ont pour 2^e^ note un *oriscus*, note légère de conduction.
-Ils soulignent donc l’élan vers la 3^e^ note, ce qui se traduit différemment
-selon le contexte (élan, repos…).
+The 2nd note of those neumes is an *oriscus*, light note leading to the next one.
+So they underline the impulse towards the 3rd note; what it means pratically
+depends on the context (impulse, rest…).
 
 . . .
 
-Le salicus 2^e^ forme et le pressus voient théoriquement leur oriscus répercuté.
+The oriscus of the 2nd salicus and the pressus should in theory be slightly repercuted.
 
 ------
 
@@ -90,46 +91,47 @@ Le salicus 2^e^ forme et le pressus voient théoriquement leur oriscus répercut
 
 . . .
 
-Le quilisma est une note faible, qui a un effet rétroactif : il faut retenir
-l’ensemble des notes qui le précèdent.
+The quilisma is a weak note that has a retroactive effect:
+the whole of the notes which precede it are slightly retained.
 
 . . .
 
-En outre, la tension engendrée par cette retenue dynamique "aboutit" à la note
-suivant le quilisma, et en souligne l’importance.
+Moreover, this tension terminates on the next note, thus underlining
+its importance.
 
 ------
 
 ### Liquescence
 
 +:---------------------------------:+:------------------------------------:+:----------------------------------------------------:+:--------------------------:+
-| `2k24x4K`{.neume}   ``{.sgall} \ | `24X4L42x2l`{.neume}   ``{.sgall} \ | `(hvG~F~)`{.gabc noclef=1 nolines=1}   ``{.sgall} \ | `2L`{.neume}   ``{.sgall} |
-| epiphonus                         | cephalicus                           | climacus liquescent                                  | liquescence augmentative   |
+| `2k24x4K`{.neume}   ``{.sgall} \ | `24X4L42x2l`{.neume}   ``{.sgall} \ | `(hvG~F~)`{.ngabc}                     ``{.sgall} \ | `2L`{.neume}   ``{.sgall} |
+| epiphonus                         | cephalicus                           | liquescent climacus                                  | augmentative liquescence   |
 +-----------------------------------+--------------------------------------+------------------------------------------------------+----------------------------+
 
 . . .
 
-Liquescence *diminutive* : phénomène *naturel* d’étouffement de la note dû à certaines consonnes.
+*Diminutive* liquescence : *natural* shortening of the note due to some consonants.
 
 . . .
 
-La liquescence *augmentative* demande d’élargir très légèrement la note pour éviter le phénomène précité.
+The *augmentive* liquescence indicates that the note should be slightly enlarged
+to avoid this effect.
 
 ------
 
-### Notes à l’unisson
+### Unison Notes
 
 +:------------------------------------------------------------------------------------:+:-------------------------------------------------:+
-| `(hh)`{.gabc noclef=1 nolines=1}   `(hss)`{.gabc noclef=1 nolines=1}   ``{.sgall} \ | `(hvv)`{.gabc noclef=1 nolines=1}   ``{.sgall} \ |
+| `(hh)`{.ngabc}                     `(hss)`{.ngabc}                     ``{.sgall} \ | `(hvv)`{.ngabc}                     ``{.sgall} \ |
 | distropha                                                                            | bivirga                                           |
 +--------------------------------------------------------------------------------------+---------------------------------------------------+
 
 . . .
 
-Les notes sont théoriquement répercutées ; en pratique, on tend à ne répercuter
-qu’en cas de "changement de neume".
+The notes are in theory all slightly repercussed;
+in practice, the notes are merged, unless there is a "neume change".
 
-## Neumes développés
+## Developped Neumes
 
 +:----------------------------------:+:---------------------------------------:+:------------------------------------:+
 | `24P'3n2n`{.neume}   ``{.sgall} \ | `1p13x31R2P`{.neume}   ``{.sgall} \    | `13x31R2p1p`{.neume}   ``{.sgall} \ |
@@ -138,13 +140,13 @@ qu’en cas de "changement de neume".
 
 . . .
 
-Abuser de ces termes est un moyen simple et efficace de briller en société.
+Making generous use of these terms is a cheap, simple and efficient way to look intelligent.
 
-## Modifications des neumes
+## Neume Nodifications
 
 ------
 
-### Adjonction de signes rythmiques
+### Adding rhythmic signs
 
 +:-----------------------------------------:+:----------------------------------------:+:------------------------------------------:+:---------------------------------------------:+
 | ``{.sgall} \                             | ``{.sgall} ``{.sgall} ``{.sgall} \    | ``{.sgall} \                              | ``{.sgall} \                                 |
@@ -153,29 +155,29 @@ Abuser de ces termes est un moyen simple et efficace de briller en société.
 
 . . .
 
-Épisème et point s’interprètent toujours\
-*en fonction du contexte*.
+Episemes and periods are always interpreted\
+*according to the context*.
 
 . . .
 
-La *dernière note* d’un neume n’est\
-*jamais plus courte que l’avant-dernière*.
+The *last note* of a neume is \
+*never shorter than the previous one*.
 
 . . .
 
-Si une syllabe est épisémée, il ne faut pas accélérer brutalement
-les syllabes suivantes du même mot.
+If a syllable has an episeme, the following syllables of the same word
+mustn’t be shortened too much.
 
 ------
 
 `(f')`{.ngabc}
 
-L’épisème vertical n’a aucune influence sur l’interprétation.
-Il est un symbole purement théorique.
+The vertical episeme doesn’t have any influence on interpretation.
+It’s a merely theoretical symbol.
 
 ------
 
-### Modification du groupement
+### Grouping modification
 
 +:-------------------------------------------------:+:----------------------------------------------------+:-------------------------------------------------:+:----------------------------------------------------+
 | Neume                                             | Coupure                                             | Neume                                             | Coupure                                             |
@@ -187,24 +189,24 @@ Il est un symbole purement théorique.
 
 . . .
 
-Indique l’importance de la note précédant la coupure.
+Indicates the importance of the note before the cut.
 
 ------
 
-#### Attention
+#### Caution
 
 . . .
 
-la coupure médiane au grave n’est pas expressive :
+the low middle cut is not expressive :
 
 +:-----------------------------------------------------------:+:---------------------------------------------------------------:+
-| `(gf!/gf!/gf)`{.ngabc}                     ``{.sgall}    | `(gfgfgf)`{.ngabc}                     ``{.sgall}             |
+| `(gf!/gf!/gf)`{.ngabc}                     ``{.sgall}    | `(gfgfgf)`{.ngabc}                    ``{.sgall}              |
 +-------------------------------------------------------------+-----------------------------------------------------------------+
 
 . . .
 
-la Vaticane ne respecte pas toutes les coupures, \
-et en ajoute certaines :
+the Vatican edition does not respect all the cuts, \
+and adds some :
 
 +:--------------------------------:+:--------------------------------:+
 | `(dg'!hv)`{.ngabc} ``{.sgall}   | `(fg!/hg)`{.ngabc} ``{.sgall}   |

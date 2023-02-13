@@ -70,6 +70,8 @@ compile_gabc = =>
     f\close! 
     texdoc = TEXDOC\gsub "<<<PACKAGES>>>", concat [ "\\usepackage#{p[2] and '['..p[2]..']' or ''}{#{p[1]}}" for p in *packages ]
     texdoc = texdoc\gsub("<<<#{k\upper!}>>>", v) for k, v in pairs @
+    if @width
+      texdoc = texdoc\gsub "−−−−GABC−−−−", "\\parbox{#{@width}}{−−−−GABC−−−−}"
     texdoc = texdoc\gsub(
       "[^\n]*<<<[^>]*>>>[^\n]*\n?", ""
     )\gsub(
@@ -116,7 +118,7 @@ Code = =>
       attr.noclef = ""
     if contains @attr.classes, "file"
       if f = open "gabc/#{@text}.gabc"
-        @text = f\read"*a"
+        @text = f\read"*a"\gsub ".*%%\n", ""
         f\close!
     attr.text = @text
     img = compile_gabc attr
