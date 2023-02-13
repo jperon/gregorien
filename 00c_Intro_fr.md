@@ -1,4 +1,4 @@
-# Gregorian scores
+# Partitions grégoriennes
 
 ## Saint-Gall
 
@@ -12,15 +12,15 @@
 
 ![](img/HaecDies_B6-34.avif)
 
-## Vatican edition
+## Vaticane
 
 `HaecDies_Vaticane`{.gabc .file}
 
-## Solesmes (rythmic signs)
+## Solesmes (signes rythmiques)
 
 `HaecDies_Solesmes`{.gabc .file}
 
-## *Graduel neumé* (Dom Mocquereau)
+## Graduel neumé (Dom Mocquereau)
 
 ![](img/Mocquereau_GraduelNeume.avif)
 
@@ -28,26 +28,26 @@
 
 ![](img/Cardine_GradualeTriplex.avif)
 
-## The rule
+## La règle
 
 . . .
 
-*that dominates all rules is that,*
+*qui domine toutes les règles*
 
 . . .
 
-*except in pure melody,*
+*est que, excepté dans la mélodie pure,*
 
-***singing is an intelligent reading,***
+***le chant est une lecture intelligente,***
 
 . . .
 
-***well accented, well prosodized, well phrased.***
+***bien accentuée, bien prosodiée, bien phrasée.***
 
 . . .
 
 Chanoine Gontier, *Méthode raisonnée de plain‑chant* (1859)
 
-## So let’s remember…
+## Aussi, souvenons-nous…
 
-`HaecDies_Solesmes`{.gabc .file fontsize=17 size=12}
+`HaecDies_Solesmes`{.gabc .file fontsize=20 size=12}

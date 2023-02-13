@@ -11,4 +11,5 @@ pdf-%:
 	env TEXINPUTS=lib/fonts: pandoc \
 		-i *_$@.md -o Conference_$@.html \
 		-t revealjs --standalone -c reveal.js/dist/theme/white.css -V revealjs-url=./reveal.js \
+		--slide-level=2 \
 		-L lib/gabc.lua
