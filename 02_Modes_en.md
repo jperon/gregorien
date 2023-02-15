@@ -6,13 +6,13 @@ Definition of the mode
 
 Consequences
 
-## The rule
+## The Rule
 
 ***singing is an intelligent reading,***
 
 ***well accented, well prosodized, well phrased.***
 
-## The mode
+## The Mode
 
 . . .
 
@@ -24,7 +24,7 @@ A mode is a *hierarchical*
 
 ------
 
-### A scale of notes
+### A Scale Of Notes
 
 The mode scale is the "catalog" from which the notes,
 or *degrees*, of the composition are chosen.
@@ -61,7 +61,7 @@ The D degree has a certain vitality, while the E is rather weak.
 
 ------
 
-### A hierarchy among the degrees
+### A Hierarchy Among The Degrees
 
 This hierarchy, the work of the composer, is not only quantitative
 (strength and frequency of each degree), but also qualitative
@@ -140,7 +140,7 @@ A modal feeling : the *ethos*
 
 ------
 
-### Characteristic melodic formulas
+### Characteristic Melodic Formulas
 
 These formulas are related to the processes of composition
 and memorization in a context of oral tradition.
@@ -156,10 +156,21 @@ and for us, a cause of mistakes if we don’t pay attention!
 
 ------
 
-### A modal feeling : the *ethos*
+### A Modal Feeling : the *Ethos*
 
 The link between mode and *ethos* has been widely exploited
 by ancient philosophers and medieval theorists.
+
+But more fundamentally, it manifests the role of music:
+
+- on the mere intellectual point of view, music adds nothing,
+  and could even be an obstacle;
+- music addresses itself to intelligence (as this one is necessary
+  to perceive its order, melodic and rhythmic),
+  but *by the mean of senses*;
+- hence music must express feelings, be *sentimental* in the noble
+  sense of the term: interpreting the *Dies Iræ* the same way as
+  the *Resurrexi* would be total nonsense.
 
 ------
 
@@ -199,7 +210,7 @@ nor every piece of the 5th mode joyful \
 each piece is unique and has its own mode.
 
 
-## Two pieces in "2nd mode"
+## Two Pieces In "2nd Mode"
 
 `dominus`{.gabc .file width=128mm}
 

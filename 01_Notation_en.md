@@ -78,7 +78,7 @@ depends on the context (impulse, rest…).
 
 . . .
 
-The oriscus of the 2nd salicus and the pressus should in theory be slightly repercuted.
+The oriscus of the 2nd salicus and the pressus should in theory be slightly repercussed.
 
 ------
 

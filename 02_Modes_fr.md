@@ -163,6 +163,18 @@ et pour nous, une source d’erreurs si nous ne sommes pas attentifs !
 Le lien entre mode et *ethos* a été largement exploité par
 les philosophes antiques et théoriciens médiévaux.
 
+Mais plus profondément, il manifeste le rôle fondamental
+de la musique :
+
+- du point de vue purement intellectuel,
+  la musique n’ajoute rien, elle peut même être gênante ;
+- la musique s’adresse à l’intelligence (puisque celle-ci
+  est nécessaire pour en percevoir l’ordre, tant mélodique
+  que rythmique), mais *à travers les sens* ;
+- il est donc évident que la musique doit exprimer des
+  sentiments : interpréter à l’identique le *Dies iræ*
+  et le *Resurrexi* serait un pur non-sens.
+
 ------
 
 À titre d’illustration, rappelons simplement les adjectifs associés à

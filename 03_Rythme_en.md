@@ -8,7 +8,7 @@ Relationship between text and musical rhythm
 
 The *ictus*
 
-## The rule
+## The Rule
 
 ***singing is an intelligent reading,***
 
@@ -115,7 +115,7 @@ Several words into a single melodic entity.
 
 Unfortunately, there’s no way to look intelligent here.
 
-## L’*ictus*
+## The *Ictus*
 
 . . .
 
@@ -145,7 +145,7 @@ as a consequence of its natural need to analyze.
 
 ------
 
-### Rules for placing the ictus
+### Rules For Ictus Placement
 
 1. Vertical episeme
 2. Sustained notes
