@@ -105,7 +105,7 @@ its importance.
 
 +:---------------------------------:+:------------------------------------:+:----------------------------------------------------:+:--------------------------:+
 | `2k24x4K`{.neume}   ``{.sgall} \ | `24X4L42x2l`{.neume}   ``{.sgall} \ | `(hvG~F~)`{.ngabc}                     ``{.sgall} \ | `2L`{.neume}   ``{.sgall} |
-| epiphonus                         | cephalicus                           | liquescent climacus                                  | augmentative liquescence   |
+| epiphonus                         | cephalicus                           | liquescent climacus                                  | augmentive liquescence     |
 +-----------------------------------+--------------------------------------+------------------------------------------------------+----------------------------+
 
 . . .
@@ -121,10 +121,13 @@ to avoid this effect.
 
 ### Unison Notes
 
-+:------------------------------------------------------------------------------------:+:-------------------------------------------------:+
-| `(hh)`{.ngabc}                     `(hss)`{.ngabc}                     ``{.sgall} \ | `(hvv)`{.ngabc}                     ``{.sgall} \ |
-| distropha                                                                            | bivirga                                           |
-+--------------------------------------------------------------------------------------+---------------------------------------------------+
++:--------------------------------------------------------------------------------------:+:--------------------------------------------------:+
+| `(hh)`{.gabc noclef=1 nolines=1}   `(hss)`{.gabc noclef=1 nolines=1}   ``{.sgall} \   | `(hvv)`{.gabc noclef=1 nolines=1}   ``{.sgall} \  |
+| distropha                                                                              | bivirga                                            |
++----------------------------------------------------------------------------------------+----------------------------------------------------+
+| `(hhh)`{.gabc noclef=1 nolines=1}   `(hsss)`{.gabc noclef=1 nolines=1}   ``{.sgall} \ | `(hvvv)`{.gabc noclef=1 nolines=1}   ``{.sgall} \ |
+| tristropha                                                                             | trivirga                                           |
++----------------------------------------------------------------------------------------+----------------------------------------------------+
 
 . . .
 
@@ -153,10 +156,27 @@ Making generous use of these terms is a cheap, simple and efficient way to look 
 | `(fv_ fv.)`{.ngabc}                       | `(f_ f.)`{.ngabc}                        | `(f_g fg..)`{.ngabc}                       | `(g_f gf__ gf..)`{.ngabc}                     |
 +-------------------------------------------+------------------------------------------+--------------------------------------------+-----------------------------------------------+
 
+::: notes
+Insist on the distinction syllabic / augmented / diminished beat,
+which isn’t mathematical.
+
+Example: *Kyrie fons bonitatis* trope : just distributing notes on
+various syllables causes a natural enlargement of those notes.
+:::
+
 . . .
 
-Episemes and periods are always interpreted\
+Episemas and dots are always interpreted\
 *according to the context*.
+
+::: notes
+To correctly interpret an episema, first try to sing
+without it to understand what it changes.
+
+Metaphor: in a descent, on a bike, one does’t brake
+too fast, and then, while turning, he doesn’t accelerate
+at once.
+:::
 
 . . .
 
@@ -165,22 +185,43 @@ The *last note* of a neume is \
 
 . . .
 
-If a syllable has an episeme, the following syllables of the same word
+If a syllable has an episema, the following syllables of the same word
 mustn’t be shortened too much.
+
+------
+
+Différence "diminished" / syllabic beat :
+
+```gabc
+(c4) Ký(g)ri(hi)e(iv.hjI'HG.hhvGF'ED.) *(,)
+(dhhg/hjI'HG') e(f)lé(ghg')i(g)son.(e.) (::)
+```
+
+```gabc
+(c4) Ký(g)ri(hi)e(i.) fons(h) bo(j)ni(i)tá(h)tis,(g.)
+Pa(h)ter(h) in(g)gé(f)ni(e)te,(d.) (,)
+a(d) quo(h) bo(h)na(g) cun(h)cta(j) pro(i)cé(h)dunt:(g') (,)
+e(f)lé(ghg')i(g)son.(e.) (::)
+```
 
 ------
 
 `(f')`{.ngabc}
 
-The vertical episeme doesn’t have any influence on interpretation.
+The vertical episema doesn’t have any influence on interpretation.
 It’s a merely theoretical symbol.
+
+::: notes
+Mention that it nevertheless allows identifying the salicus,
+and the terminal cut.
+:::
 
 ------
 
 ### Grouping modification
 
 +:-------------------------------------------------:+:----------------------------------------------------+:-------------------------------------------------:+:----------------------------------------------------+
-| Neume                                             | Coupure                                             | Neume                                             | Coupure                                             |
+| Neume                                             | Cut                                                 | Neume                                             | Cut                                                 |
 +:--------------------------------------------------------------------------------------------------------+:--------------------------------------------------------------------------------------------------------+
 | `(fhGF)`{.ngabc}                   ``{.sgall}    | `(f!/hvGF)`{.ngabc}                   ``{.sgall}   | `(dg!hv)`{.ngabc}                   ``{.sgall}   | `(dg'!/hv)`{.ngabc}                   ``{.sgall}   |
 +:--------------------------------------------------------------------------------------------------------+:--------------------------------------------------------------------------------------------------------+

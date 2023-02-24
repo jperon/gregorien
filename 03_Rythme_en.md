@@ -60,7 +60,7 @@ what follows it is the rest phase (or *thesis*).
 ------
 
 As many different levels of analysis can be identified
-as there are different types of vertices.
+as there are different types of summits.
 The real variations of the sound qualities will be more tenuous
 the lower the level of analysis.
 
@@ -147,7 +147,7 @@ as a consequence of its natural need to analyze.
 
 ### Rules For Ictus Placement
 
-1. Vertical episeme
+1. Vertical episema
 2. Sustained notes
 3. Notes beginning a group
 4. Common sense: finals of words, accents…

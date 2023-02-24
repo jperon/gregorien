@@ -170,10 +170,31 @@ de la musique :
   la musique n’ajoute rien, elle peut même être gênante ;
 - la musique s’adresse à l’intelligence (puisque celle-ci
   est nécessaire pour en percevoir l’ordre, tant mélodique
-  que rythmique), mais *à travers les sens* ;
-- il est donc évident que la musique doit exprimer des
-  sentiments : interpréter à l’identique le *Dies iræ*
-  et le *Resurrexi* serait un pur non-sens.
+  que rythmique), mais *à travers les sens*.
+
+------
+
+Il est donc évident que la musique doit exprimer des
+sentiments : interpréter à l’identique le *Dies iræ*
+et le *Resurrexi* serait un pur non-sens.
+
+------
+
+<!--
+> Je sens bien que ces paroles saintes, quand elles sont ainsi chantées, me
+> pénètrent d’une plus religieuse, d’une plus ardente flamme de piété que si
+> elles ne l’étaient point. C’est que tous les sentiments infiniment variés de l’âme
+> retrouvent chacun leur note propre dans la voix, dans le chant, et je ne sais
+> quelle affinité qui les stimule. 
+-->
+
+> Ipsis sanctis dictis religiosius et ardentius sentio
+> moveri animos nostros in flammam pietatis, cum ita
+> cantantur, quam si non cantarentur ; et omnes affectus
+> spiritus nostri pro sui diversitate habere proprios modos
+> in voce atque cantu, quorum nescio qua occulta familiaritate excitentur.
+
+S. Augustini *Confessionum* X, 33, *PL* 32, 799
 
 ------
 
@@ -217,3 +238,25 @@ chaque pièce est unique et a son propre mode.
 `dominus`{.gabc .file width=128mm}
 
 `oblatus`{.gabc .file width=128mm}
+
+## Récapitulatif
+
+L’étude de la modalité d’une pièce comporte :
+
+1. l’identification de l’*échelle* sur laquelle elle est construite ;
+2. l’identification de la *hiérarchie* des degrés ;
+3. la perception des *sentiments* exprimés par le texte à travers ce mode.
+
+. . .
+
+En outre, une connaissance plus approfondie de la
+modalité permet de comprendre et de prévoir les difficultés
+de déchiffrage.
+
+::: note
+Le quilisma, le salicus et les strophas sont des auxiliaires
+précieux pour identifier l’échelle modale.
+
+Exemple : *Hæc dies*, spécialement à partir de *et lætémur*
+et ℣.
+:::

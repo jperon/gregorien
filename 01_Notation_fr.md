@@ -119,10 +119,13 @@ La liquescence *augmentative* demande d’élargir très légèrement la note po
 
 ### Notes à l’unisson
 
-+:------------------------------------------------------------------------------------:+:-------------------------------------------------:+
-| `(hh)`{.gabc noclef=1 nolines=1}   `(hss)`{.gabc noclef=1 nolines=1}   ``{.sgall} \ | `(hvv)`{.gabc noclef=1 nolines=1}   ``{.sgall} \ |
-| distropha                                                                            | bivirga                                           |
-+--------------------------------------------------------------------------------------+---------------------------------------------------+
++:--------------------------------------------------------------------------------------:+:--------------------------------------------------:+
+| `(hh)`{.gabc noclef=1 nolines=1}   `(hss)`{.gabc noclef=1 nolines=1}   ``{.sgall} \   | `(hvv)`{.gabc noclef=1 nolines=1}   ``{.sgall} \  |
+| distropha                                                                              | bivirga                                            |
++----------------------------------------------------------------------------------------+----------------------------------------------------+
+| `(hhh)`{.gabc noclef=1 nolines=1}   `(hsss)`{.gabc noclef=1 nolines=1}   ``{.sgall} \ | `(hvvv)`{.gabc noclef=1 nolines=1}   ``{.sgall} \ |
+| tristropha                                                                             | trivirga                                           |
++----------------------------------------------------------------------------------------+----------------------------------------------------+
 
 . . .
 
@@ -151,10 +154,27 @@ Abuser de ces termes est un moyen simple et efficace de briller en société.
 | `(fv_ fv.)`{.ngabc}                       | `(f_ f.)`{.ngabc}                        | `(f_g fg..)`{.ngabc}                       | `(g_f gf__ gf..)`{.ngabc}                     |
 +-------------------------------------------+------------------------------------------+--------------------------------------------+-----------------------------------------------+
 
+::: notes
+Insister sur la distinction temps syllabique / augmenté / diminué,
+et sur le fait que ce n’est pas mathématique.
+
+Exemple : trope *Kyrie fons bonitátis* : le seul fait de distribuer
+les notes sur les syllabes entraîne un élargissement de ces notes.
+:::
+
 . . .
 
 Épisème et point s’interprètent toujours\
 *en fonction du contexte*.
+
+::: notes
+Pour bien interpréter un épisème, commencer par voir
+ce que cela donne sans lui.
+
+Métaphore du frein à vélo : sauf à vouloir déraper
+et tomber, on freine délicatement ; puis, en virage
+dans une descente, on évite d’accélérer brutalement.
+:::
 
 . . .
 
@@ -168,10 +188,31 @@ les syllabes suivantes du même mot.
 
 ------
 
+Différence temps "diminué" / syllabique :
+
+```gabc
+(c4) Ký(g)ri(hi)e(iv.hjI'HG.hhvGF'ED.) *(,)
+(dhhg/hjI'HG') e(f)lé(ghg')i(g)son.(e.) (::)
+```
+
+```gabc
+(c4) Ký(g)ri(hi)e(i.) fons(h) bo(j)ni(i)tá(h)tis,(g.)
+Pa(h)ter(h) in(g)gé(f)ni(e)te,(d.) (,)
+a(d) quo(h) bo(h)na(g) cun(h)cta(j) pro(i)cé(h)dunt:(g') (,)
+e(f)lé(ghg')i(g)son.(e.) (::)
+```
+
+------
+
 `(f')`{.ngabc}
 
 L’épisème vertical n’a aucune influence sur l’interprétation.
 Il est un symbole purement théorique.
+
+::: notes
+Mentionner qu’il permet toutefois d’identifier le salicus,
+ainsi que la coupure terminale à l’aigu.
+:::
 
 ------
 

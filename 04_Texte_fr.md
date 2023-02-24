@@ -26,6 +26,10 @@ Intelligent < *intelligo, -ere* : comprendre
 
 . . .
 
+*Ut mens nostra concordet voci nostræ.*
+
+. . .
+
 > Vetus et nunquam intermissa linguæ Latinæ
 > retineatur consuetudo, et, sicubi prope exoleverit,
 > plane redintegretur.

@@ -168,9 +168,22 @@ But more fundamentally, it manifests the role of music:
 - music addresses itself to intelligence (as this one is necessary
   to perceive its order, melodic and rhythmic),
   but *by the mean of senses*;
-- hence music must express feelings, be *sentimental* in the noble
-  sense of the term: interpreting the *Dies Iræ* the same way as
-  the *Resurrexi* would be total nonsense.
+
+------
+
+Hence music must express feelings, be *sentimental* in the noble
+sense of the term: interpreting the *Dies Iræ* the same way as
+the *Resurrexi* would be total nonsense.
+
+------
+
+> Ipsis sanctis dictis religiosius et ardentius sentio
+> moveri animos nostros in flammam pietatis, cum ita
+> cantantur, quam si non cantarentur ; et omnes affectus
+> spiritus nostri pro sui diversitate habere proprios modos
+> in voce atque cantu, quorum nescio qua occulta familiaritate excitentur.
+
+S. Augustini *Confessionum* X, 33, *PL* 32, 799
 
 ------
 
@@ -215,3 +228,25 @@ each piece is unique and has its own mode.
 `dominus`{.gabc .file width=128mm}
 
 `oblatus`{.gabc .file width=128mm}
+
+## Recapitulation
+
+Studying the modality of a piece implies:
+
+1. identifying the *scale* on which it is built;
+2. identifying the *hierarchy* of the degrees;
+3. perceiving the *feelings* the text expresses in this mode.
+
+. . .
+
+Moreover, a more profund comprehension of modality
+will allow understanding and preventing difficulties
+in reading music.
+
+::: notes
+Quilisma, salicus and strophas are precious auxiliaries
+to indentify the modal scale.
+
+Example: *Hæc dies*, especially from *et lætémur*
+and ℣.
+:::
